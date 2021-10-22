@@ -60,5 +60,4 @@ USGCRP, 2016. The Impacts of Climate Change on Human Health in the United States
 
 Common Themes
 It is very understandable that climate claim articles can easily promote draw in the reader to understand a different perspective. After all, they are commonly rooted in environmental and climate science and are biased towards a climate skeptic or alarmist viewpoint. Hasty generalization was often used to draw conclusions based on limited resources, as there was not satisfactory data to apply findings about one specific study to a broad group. I observed this broad generalization in nearly every article, which often had one hand-picked source to back up their claims while ignoring any other supporting research. The claims were also frequently extended to broadly apply to all climate situations, as opposed to the region of interest from evidence, which is not an accurate justification. Many of the climate claims and their supporting arguments follow a common thread of not having adequate evidence to back up controversial and strong claims. 
-![image](https://user-images.githubusercontent.com/92389925/138500289-b4baa47c-b8af-46d0-b3da-f2a0250fe8aa.png)
 
