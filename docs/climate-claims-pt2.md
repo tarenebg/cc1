@@ -15,19 +15,20 @@ This post describes the ways in which solar wind and disturbances are largely re
 
 http://www.climatechangefacts.info/#Before
 
-This paper covered a broad range of climate change facts, myths, and beliefs, but I focused on the section titled "Was the Earth Warmer Before? Sea Level Higher? CO2 Higher?", which discussed how the global sea levels were higher, temperatures were warmer, and atmospheric carbon dioxide levels were increased over different historic geologic periods  Although I was already aware of the historical data showing that Earth has undergone previous cycles of global warming and cooling, I did appreciate that this went into more detail about the specifics on how Earth has in fact undergone warmer periods; this also helped me consider how largely alarmist views on climate change have led to my pre-existing beliefs of the climate crisis being an imminent risk of massive catastrophe, which is often bolstered heavily by the alarmist viewpoint. 
+This paper covered a broad range of climate change facts, myths, and beliefs, but I focused on the section titled "Was the Earth Warmer Before? Sea Level Higher? CO2 Higher?", which discussed how the global sea levels were higher, temperatures were warmer, and atmospheric carbon dioxide levels were increased over different historic geologic periods. Although I was already aware of the historical data showing that Earth has undergone previous cycles of global warming and cooling, this helped me consider how alarmist views on climate change have resulted in my doom-and-gloom perspective on the potential outcomes based on our current trajectory.
+ 
 
 **Analysis: Hurricanes Have Not Gotten More Intense, Frequent Over Past 170 Years**
 
 https://wattsupwiththat.com/2021/10/11/analysis-hurricanes-have-not-gotten-more-intense-frequent-over-past-170-years/
 
-Although hurricanes and extreme weather events are often explained as increasingly common due to climate change and global warming, this article stated that hurricane frequency is actually controlled by the Atlantic oceanic variability. I did believe that climate change was making hurricanes more frequent, or at least more severe, so considering the possibility that this is a short-term, largely internal-influenced increase was a different perspective on my understanding of how climate change impacts hurricanes. 
+Although hurricanes and extreme weather events are often explained as increasingly common due to climate change and global warming, this article stated that hurricane frequency is actually controlled by the Atlantic oceanic variability. I did believe that climate change was making hurricanes more frequent, or at least more severe, so considering the possibility that this is a short-term, largely internal-influenced increase was a different perspective on my understanding of how climate change impacts hurricanes, even though further research ultimately did show that climate change will increase tropical storm frequency and intensity. 
 
 **New NASA Study: Earth has been trapping heat at an alarming new rate**
 
 http://www.drroyspencer.com/2021/06/new-nasa-study-earth-has-been-trapping-heat-at-an-alarming-new-rate/
 
-This article examines Earth's radiative energy budget through the CERES satellite instrumentation, and how claiming that the increase of our energy imbalance is "unprecedented" is not a valid claim based on our knowledge of energy flow and the natural climate cycle. I appreciated the consideration of the natural climate cycle and historical analysis in examining this subject, which I already heard about, and I did reconsider the way claims can be worded to sound increasingly dangerous. 
+This article examines Earth's radiative energy budget through the CERES satellite instrumentation, and how claiming that the increase of our energy imbalance is "unprecedented" is not a valid claim based on our knowledge of energy flow and the natural climate cycle. I appreciated the consideration of the natural climate cycle and historical analysis in examining this subject, which I already heard about, and I did reconsider the way claims can be worded to sound increasingly dangerous when the objective research is rephrased to support a specific perspective. 
 
 
 # Evaluation of No.1 Claim
